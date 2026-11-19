@@ -1,0 +1,17 @@
+[
+  {
+    "id": "banner-1",
+    "imageUrl": "https://raw.githubusercontent.com/zhini-co-in/zhini-web/main/assets/banner-1.jpeg",
+    "isActive": true
+  },
+  {
+    "id": "banner-2",
+    "imageUrl": "https://raw.githubusercontent.com/zhini-co-in/zhini-web/main/assets/banner-2.jpeg",
+    "isActive": true
+  },
+  {
+    "id": "banner-3",
+    "imageUrl": "https://raw.githubusercontent.com/zhini-co-in/zhini-web/main/assets/banner-3.jpeg",
+    "isActive": true
+  }
+]
